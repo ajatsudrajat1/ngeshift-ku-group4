@@ -1,0 +1,8 @@
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/
+!themes/classic/.gitignore
+nbproject/*
+assets/*

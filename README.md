@@ -1,4 +1,7 @@
-GROUP 4
-Ajat Sudrajat (wakil leader) => ajatsudrajat1
-2. hidayatul ichwan
-3. rizki ripai
+# Tugas kelompok 4 rekayasa web
+1. Arif rachman
+2. Mohammad Ali Yinnah
+3. Richard riandi
+4. Hidayatul ichwan
+5. Ajat sudrajat
+6. Rizki Ripal
